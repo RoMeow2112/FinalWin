@@ -35,6 +35,7 @@
             this.buttonInventory = new System.Windows.Forms.Button();
             this.buttonRevenue = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // buttonRoom
@@ -52,7 +53,7 @@
             // buttonCustomer
             // 
             this.buttonCustomer.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonCustomer.Location = new System.Drawing.Point(60, 165);
+            this.buttonCustomer.Location = new System.Drawing.Point(28, 158);
             this.buttonCustomer.Margin = new System.Windows.Forms.Padding(2);
             this.buttonCustomer.Name = "buttonCustomer";
             this.buttonCustomer.Size = new System.Drawing.Size(141, 57);
@@ -76,7 +77,7 @@
             // buttonFoods
             // 
             this.buttonFoods.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonFoods.Location = new System.Drawing.Point(205, 165);
+            this.buttonFoods.Location = new System.Drawing.Point(173, 161);
             this.buttonFoods.Margin = new System.Windows.Forms.Padding(2);
             this.buttonFoods.Name = "buttonFoods";
             this.buttonFoods.Size = new System.Drawing.Size(141, 50);
@@ -121,11 +122,24 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // button2
+            // 
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(318, 161);
+            this.button2.Margin = new System.Windows.Forms.Padding(2);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(141, 50);
+            this.button2.TabIndex = 7;
+            this.button2.Text = "FaceID";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(483, 366);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.buttonRevenue);
             this.Controls.Add(this.buttonInventory);
@@ -149,5 +163,6 @@
         private System.Windows.Forms.Button buttonInventory;
         private System.Windows.Forms.Button buttonRevenue;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }

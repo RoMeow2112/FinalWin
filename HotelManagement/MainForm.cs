@@ -69,5 +69,11 @@ namespace HotelManagement
             FormCleaner formCleaner = new FormCleaner(CurrentLogin.EmployeeID, CurrentLogin.EmployeeName, CurrentLogin.Role);
             formCleaner.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FormRegisterFace formRegisterFace = new FormRegisterFace(CurrentLogin.EmployeeID);
+            formRegisterFace.Show();
+        }
     }
 }

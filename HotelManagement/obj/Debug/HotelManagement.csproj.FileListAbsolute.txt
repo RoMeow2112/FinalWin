@@ -1,116 +1,27 @@
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Azure.Core.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Azure.Identity.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Bcl.Cryptography.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Data.SqlClient.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Extensions.Options.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Extensions.Primitives.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Identity.Client.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.IdentityModel.Logging.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.IdentityModel.Protocols.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.IdentityModel.Tokens.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Buffers.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.ClientModel.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.IO.FileSystem.AccessControl.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Memory.Data.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Memory.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Numerics.Vectors.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Security.AccessControl.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Security.Cryptography.Pkcs.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Security.Cryptography.ProtectedData.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Security.Principal.Windows.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Text.Encodings.Web.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Text.Json.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.ValueTuple.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Azure.Core.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Azure.Identity.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Bcl.Cryptography.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Data.SqlClient.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Extensions.Options.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Extensions.Primitives.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Identity.Client.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.IdentityModel.Logging.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.IdentityModel.Protocols.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\Microsoft.IdentityModel.Tokens.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Buffers.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.ClientModel.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Memory.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Memory.Data.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Numerics.Vectors.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Security.AccessControl.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Security.Cryptography.Pkcs.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Security.Principal.Windows.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Text.Encodings.Web.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Text.Json.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\System.ValueTuple.xml
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AddNewRoom.resources
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RoomManagement.resources
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.cache
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelMan.EA22BE7D.Up2Date
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.EditRoom.resources
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.AddNewCustomer.resources
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.CustomerManagement.resources
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.EditCustomer.resources
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.MainForm.resources
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.BookingForm.resources
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.BookingBillManagement.resources
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.BookingDetail.resources
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FoodManagement.resources
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.InventoryManagement.resources
-D:\STUDY HARD\Window Programing\HotelManagement\HotelManagement\obj\Debug\HotelManagement.DailyRevenueReport.resources
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x64\concrt140.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x64\cvextern.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x64\msvcp140.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x64\msvcp140_1.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x64\msvcp140_2.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x64\opencv_videoio_ffmpeg440_64.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x64\vcruntime140.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x86\concrt140.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x86\cvextern.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x86\msvcp140.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x86\msvcp140_1.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x86\msvcp140_2.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x86\opencv_videoio_ffmpeg440.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\x86\vcruntime140.dll
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Azure.Core.dll
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Azure.Identity.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Emgu.CV.Platform.NetStandard.dll
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Microsoft.Bcl.Cryptography.dll
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Microsoft.Data.SqlClient.dll
@@ -131,8 +42,10 @@ C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.Buffers.dll
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.ClientModel.dll
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.Drawing.Common.dll
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.IO.Pipelines.dll
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.Memory.Data.dll
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.Memory.dll
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.Numerics.Vectors.dll
@@ -147,6 +60,8 @@ C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.ValueTuple.dll
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Azure.Core.xml
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Azure.Identity.xml
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Emgu.CV.Platform.NetStandard.xml
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Microsoft.Bcl.Cryptography.xml
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\Microsoft.Data.SqlClient.xml
@@ -167,8 +82,11 @@ C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.Buffers.xml
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.ClientModel.xml
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.Drawing.Common.pdb
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.Drawing.Common.xml
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.IO.Pipelines.xml
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.Memory.xml
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.Memory.Data.xml
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\System.Numerics.Vectors.xml
@@ -205,7 +123,14 @@ C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.EditCustomer.resources
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.EditRoom.resources
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FoodManagement.resources
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FormAddEmployee .resources
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FormAddShift.resources
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FormCleaner.resources
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FormEditEmployee.resources
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FormLogin.resources
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Employee.FormManager.resources
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FormRegisterFace.resources
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FormReport.resources
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.InventoryManagement.resources
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.MainForm.resources
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
@@ -215,9 +140,7 @@ C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelMan.EA22BE7D.Up2Date
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
 C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
-C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FormAddEmployee .resources
-C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FormAddShift.resources
-C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FormCleaner.resources
-C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FormEditEmployee.resources
-C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FormReport.resources
-C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Employee.FormManager.resources
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\DlibDotNetNative.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\DlibDotNetNativeDnn.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\bin\Debug\DlibDotNet.dll
+C:\Users\nguye\Desktop\HotelManagement\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FormLoginFace.resources

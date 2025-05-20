@@ -11,5 +11,6 @@ namespace HotelManagement.Models
         public string Role;
         public bool IsActive;
         public DateTime? LastLogin;
+        public byte[] FaceID { get; set; }
     }
 }

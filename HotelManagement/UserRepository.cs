@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Data.SqlClient;
 using HotelManagement.Models;
 
@@ -7,6 +8,22 @@ namespace HotelManagement.Repositories
     public class UserRepository
     {
         DB db = new DB();
+
+        public bool UpdateFaceID(int userId, byte[] faceIdData)
+        {
+            string query = @"UPDATE Users SET FaceID = @FaceID WHERE UserID = @UserID";
+
+            SqlCommand cmd = new SqlCommand(query, db.getConnection);
+            cmd.Parameters.AddWithValue("@FaceID", (object)faceIdData ?? DBNull.Value);
+            cmd.Parameters.AddWithValue("@UserID", userId);
+
+            db.openConnection();
+            int rowsAffected = cmd.ExecuteNonQuery();
+            db.closeConnection();
+
+            return rowsAffected > 0;
+        }
+
 
         public User Login(string username, string password)
         {
@@ -48,6 +65,35 @@ namespace HotelManagement.Repositories
             db.openConnection();
             cmd.ExecuteNonQuery();
             db.closeConnection();
+        }
+
+        public List<User> GetAllUsersWithFaceID()
+        {
+            var users = new List<User>();
+
+            string query = "SELECT UserID, EmployeeID, FaceID FROM Users WHERE FaceID IS NOT NULL";
+
+            SqlCommand cmd = new SqlCommand(query, db.getConnection);
+
+            db.openConnection();
+
+            SqlDataReader reader = cmd.ExecuteReader();
+
+            while (reader.Read())
+            {
+                var user = new User()
+                {
+                    UserID = (int)reader["UserID"],
+                    EmployeeID = (int)reader["EmployeeID"],
+                    FaceID = reader["FaceID"] as byte[]
+                };
+                users.Add(user);
+            }
+
+            reader.Close();
+            db.closeConnection();
+
+            return users;
         }
     }
 }
