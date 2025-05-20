@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\Desktop\\HotelManagement\\HotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E89FCA8-8814-4A60-B83F-8181E5777C86}|HotelManagement\\HotelManagement.csproj|c:\\users\\nguye\\desktop\\hotelmanagement\\hotelmanagement\\hotelmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E89FCA8-8814-4A60-B83F-8181E5777C86}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E89FCA8-8814-4A60-B83F-8181E5777C86}|HotelManagement\\HotelManagement.csproj|c:\\users\\nguye\\desktop\\hotelmanagement\\hotelmanagement\\hotelmanagement\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E89FCA8-8814-4A60-B83F-8181E5777C86}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E89FCA8-8814-4A60-B83F-8181E5777C86}|HotelManagement\\HotelManagement.csproj|c:\\users\\nguye\\desktop\\hotelmanagement\\hotelmanagement\\hotelmanagement\\formcleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E89FCA8-8814-4A60-B83F-8181E5777C86}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\formcleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E89FCA8-8814-4A60-B83F-8181E5777C86}|HotelManagement\\HotelManagement.csproj|c:\\users\\nguye\\desktop\\hotelmanagement\\hotelmanagement\\hotelmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E89FCA8-8814-4A60-B83F-8181E5777C86}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Desktop\\HotelManagement\\HotelManagement\\HotelManagement\\FormLogin.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\nguye\\Desktop\\HotelManagement\\HotelManagement\\HotelManagement\\FormLogin.cs",
+              "RelativeToolTip": "HotelManagement\\FormLogin.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:19:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCleaner.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Desktop\\HotelManagement\\HotelManagement\\HotelManagement\\FormCleaner.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\FormCleaner.cs",
+              "ToolTip": "C:\\Users\\nguye\\Desktop\\HotelManagement\\HotelManagement\\HotelManagement\\FormCleaner.cs",
+              "RelativeToolTip": "HotelManagement\\FormCleaner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:13:19.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Desktop\\HotelManagement\\HotelManagement\\HotelManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\MainForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\Desktop\\HotelManagement\\HotelManagement\\HotelManagement\\MainForm.cs",
+              "RelativeToolTip": "HotelManagement\\MainForm.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:07:01.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\Desktop\\HotelManagement\\HotelManagement\\HotelManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\MainForm.cs",
+              "ToolTip": "C:\\Users\\nguye\\Desktop\\HotelManagement\\HotelManagement\\HotelManagement\\MainForm.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:06:39.293Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
